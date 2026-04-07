@@ -2,7 +2,7 @@
 
 ### Game Designer & Developer based in Copenhagen
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Viigg0&label=Profile views&color=0e75b6&style=flat" alt="Viigg0" /> </p>
+<img src="https://komarev.com/ghpvc/?username=Viigg0&label=Profile%20views&color=0e75b6&style=flat" alt="Viigg0" />
 
 - 🔭 I'm currently working on **a VR simulator designed to help neurodivergent users challenge anxiety in a safe, immersive environment.**
 

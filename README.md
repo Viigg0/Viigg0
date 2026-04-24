@@ -26,4 +26,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![My Skills](https://skillicons.dev/icons?i=blender,c,cs,docker,express,figma,java,js,nodejs,photoshop,py,pytorch,react,spring,tensorflow,unity)
+![My Skills](https://skillicons.dev/icons?i=blender,c,cs,docker,express,figma,java,js,nodejs,py,pytorch,react,unity)
